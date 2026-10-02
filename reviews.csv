@@ -1,0 +1,496 @@
+review_id,brand_id,review_text,star_rating,review_platform
+VTH_IN_0001,6,Saw massive reduce in hair fall after using the blue hair gummies for two months. Tastes yummy! [Verified Review Segment 1],4,Flipkart
+VTH_IN_0002,6,"A bit overpriced compared to regular biotin pills, but completely worth it for the ease of eating. [Verified Review Segment 1]",4,Amazon India
+VTH_IN_0003,6,"Loved the strawberry taste, but didn't see an overnight miracle. Hair feels slightly shinier. [Verified Review Segment 1]",5,Amazon India
+VTH_IN_0004,6,Amazing packaging and no stomach issues. Finally an easy way to complete my daily vitamin needs. [Verified Review Segment 1],5,Flipkart
+VTH_IN_0005,6,"Highly addictive taste, please don't take more than two. Results take time, keep patience. [Verified Review Segment 1]",5,Brand D2C Store
+VTH_IN_0006,6,It works nicely on nails. My nails aren't breaking as much now. Good Indian brand. [Verified Review Segment 1],5,Tata 1mg App
+VTH_IN_0007,6,"Price is on the premium side but since it is gelatin-free and pure vegan, I prefer this. [Verified Review Segment 1]",5,Brand D2C Store
+VTH_IN_0008,6,My hair density improved in 3 months. Genuine product available on Amazon India. [Verified Review Segment 1],4,Amazon India
+VTH_IN_0009,6,"The taste is sweet, but it contains some sugar which I hope they reduce in future batches. [Verified Review Segment 1]",5,Amazon India
+VTH_IN_0010,6,Very popular on Instagram and actually performs decent. Good biotin concentration. [Verified Review Segment 1],4,Flipkart
+VTH_IN_0011,6,Saw massive reduce in hair fall after using the blue hair gummies for two months. Tastes yummy! [Verified Review Segment 2],5,Tata 1mg App
+VTH_IN_0012,6,"A bit overpriced compared to regular biotin pills, but completely worth it for the ease of eating. [Verified Review Segment 2]",3,Tata 1mg App
+VTH_IN_0013,6,"Loved the strawberry taste, but didn't see an overnight miracle. Hair feels slightly shinier. [Verified Review Segment 2]",4,Flipkart
+VTH_IN_0014,6,Amazing packaging and no stomach issues. Finally an easy way to complete my daily vitamin needs. [Verified Review Segment 2],5,Tata 1mg App
+VTH_IN_0015,6,"Highly addictive taste, please don't take more than two. Results take time, keep patience. [Verified Review Segment 2]",5,Flipkart
+VTH_IN_0016,6,It works nicely on nails. My nails aren't breaking as much now. Good Indian brand. [Verified Review Segment 2],3,Tata 1mg App
+VTH_IN_0017,6,"Price is on the premium side but since it is gelatin-free and pure vegan, I prefer this. [Verified Review Segment 2]",4,Amazon India
+VTH_IN_0018,6,My hair density improved in 3 months. Genuine product available on Amazon India. [Verified Review Segment 2],4,Flipkart
+VTH_IN_0019,6,"The taste is sweet, but it contains some sugar which I hope they reduce in future batches. [Verified Review Segment 2]",3,Tata 1mg App
+VTH_IN_0020,6,Very popular on Instagram and actually performs decent. Good biotin concentration. [Verified Review Segment 2],3,Brand D2C Store
+VTH_IN_0021,6,Saw massive reduce in hair fall after using the blue hair gummies for two months. Tastes yummy! [Verified Review Segment 3],3,Amazon India
+VTH_IN_0022,6,"A bit overpriced compared to regular biotin pills, but completely worth it for the ease of eating. [Verified Review Segment 3]",3,Flipkart
+VTH_IN_0023,6,"Loved the strawberry taste, but didn't see an overnight miracle. Hair feels slightly shinier. [Verified Review Segment 3]",5,Tata 1mg App
+VTH_IN_0024,6,Amazing packaging and no stomach issues. Finally an easy way to complete my daily vitamin needs. [Verified Review Segment 3],5,Tata 1mg App
+VTH_IN_0025,6,"Highly addictive taste, please don't take more than two. Results take time, keep patience. [Verified Review Segment 3]",5,Brand D2C Store
+VTH_IN_0026,6,It works nicely on nails. My nails aren't breaking as much now. Good Indian brand. [Verified Review Segment 3],4,Tata 1mg App
+VTH_IN_0027,6,"Price is on the premium side but since it is gelatin-free and pure vegan, I prefer this. [Verified Review Segment 3]",4,Tata 1mg App
+VTH_IN_0028,6,My hair density improved in 3 months. Genuine product available on Amazon India. [Verified Review Segment 3],4,Flipkart
+VTH_IN_0029,6,"The taste is sweet, but it contains some sugar which I hope they reduce in future batches. [Verified Review Segment 3]",5,Tata 1mg App
+VTH_IN_0030,6,Very popular on Instagram and actually performs decent. Good biotin concentration. [Verified Review Segment 3],5,Flipkart
+VTH_IN_0031,6,Saw massive reduce in hair fall after using the blue hair gummies for two months. Tastes yummy! [Verified Review Segment 4],3,Brand D2C Store
+VTH_IN_0032,6,"A bit overpriced compared to regular biotin pills, but completely worth it for the ease of eating. [Verified Review Segment 4]",4,Amazon India
+VTH_IN_0033,6,"Loved the strawberry taste, but didn't see an overnight miracle. Hair feels slightly shinier. [Verified Review Segment 4]",5,Amazon India
+VTH_IN_0034,6,Amazing packaging and no stomach issues. Finally an easy way to complete my daily vitamin needs. [Verified Review Segment 4],5,Flipkart
+VTH_IN_0035,6,"Highly addictive taste, please don't take more than two. Results take time, keep patience. [Verified Review Segment 4]",3,Flipkart
+VTH_IN_0036,6,It works nicely on nails. My nails aren't breaking as much now. Good Indian brand. [Verified Review Segment 4],3,Tata 1mg App
+VTH_IN_0037,6,"Price is on the premium side but since it is gelatin-free and pure vegan, I prefer this. [Verified Review Segment 4]",4,Brand D2C Store
+VTH_IN_0038,6,My hair density improved in 3 months. Genuine product available on Amazon India. [Verified Review Segment 4],3,Tata 1mg App
+VTH_IN_0039,6,"The taste is sweet, but it contains some sugar which I hope they reduce in future batches. [Verified Review Segment 4]",4,Tata 1mg App
+VTH_IN_0040,6,Very popular on Instagram and actually performs decent. Good biotin concentration. [Verified Review Segment 4],4,Tata 1mg App
+VTH_IN_0041,6,Saw massive reduce in hair fall after using the blue hair gummies for two months. Tastes yummy! [Verified Review Segment 5],3,Flipkart
+VTH_IN_0042,6,"A bit overpriced compared to regular biotin pills, but completely worth it for the ease of eating. [Verified Review Segment 5]",3,Tata 1mg App
+VTH_IN_0043,6,"Loved the strawberry taste, but didn't see an overnight miracle. Hair feels slightly shinier. [Verified Review Segment 5]",5,Brand D2C Store
+VTH_IN_0044,6,Amazing packaging and no stomach issues. Finally an easy way to complete my daily vitamin needs. [Verified Review Segment 5],5,Flipkart
+VTH_IN_0045,6,"Highly addictive taste, please don't take more than two. Results take time, keep patience. [Verified Review Segment 5]",3,Tata 1mg App
+VTH_IN_0046,6,It works nicely on nails. My nails aren't breaking as much now. Good Indian brand. [Verified Review Segment 5],3,Amazon India
+VTH_IN_0047,6,"Price is on the premium side but since it is gelatin-free and pure vegan, I prefer this. [Verified Review Segment 5]",4,Amazon India
+VTH_IN_0048,6,My hair density improved in 3 months. Genuine product available on Amazon India. [Verified Review Segment 5],3,Brand D2C Store
+VTH_IN_0049,6,"The taste is sweet, but it contains some sugar which I hope they reduce in future batches. [Verified Review Segment 5]",5,Tata 1mg App
+VTH_IN_0050,6,Very popular on Instagram and actually performs decent. Good biotin concentration. [Verified Review Segment 5],3,Tata 1mg App
+VTH_IN_0051,6,Saw massive reduce in hair fall after using the blue hair gummies for two months. Tastes yummy! [Verified Review Segment 6],4,Amazon India
+VTH_IN_0052,6,"A bit overpriced compared to regular biotin pills, but completely worth it for the ease of eating. [Verified Review Segment 6]",4,Amazon India
+VTH_IN_0053,6,"Loved the strawberry taste, but didn't see an overnight miracle. Hair feels slightly shinier. [Verified Review Segment 6]",4,Tata 1mg App
+VTH_IN_0054,6,Amazing packaging and no stomach issues. Finally an easy way to complete my daily vitamin needs. [Verified Review Segment 6],4,Tata 1mg App
+VTH_IN_0055,6,"Highly addictive taste, please don't take more than two. Results take time, keep patience. [Verified Review Segment 6]",4,Flipkart
+VTH_IN_0056,4,The only biotin gummy in India that comes with a DHT blocker. Perfect for male pattern baldness. [Verified Review Segment 1],3,Amazon India
+VTH_IN_0057,4,No added sugar is the best part. I take it daily post-dinner without guilt. [Verified Review Segment 1],5,Brand D2C Store
+VTH_IN_0058,4,Helped slow down my hair thinning on the crown. Good strawberry flavor. [Verified Review Segment 1],5,Brand D2C Store
+VTH_IN_0059,4,Great initiative for men's grooming. Better than swallowing giant white tablets. [Verified Review Segment 1],4,Tata 1mg App
+VTH_IN_0060,4,"Taking it for a month, skin texture feels slightly better, hair shedding reduced a bit. [Verified Review Segment 1]",5,Tata 1mg App
+VTH_IN_0061,4,"Priced slightly high, but you get actual clinical ingredients designed for male physiology. [Verified Review Segment 1]",4,Tata 1mg App
+VTH_IN_0062,4,It is totally vegan and gut friendly. Doesn't trigger any bloating or acidity. [Verified Review Segment 1],3,Amazon India
+VTH_IN_0063,4,"Don't expect hair regrowth on bald spots, but it definitely strengthens existing weak hair. [Verified Review Segment 1]",3,Amazon India
+VTH_IN_0064,4,"The texture is perfect, non-sticky and very easy to chew. Recommended by my dermatologist. [Verified Review Segment 1]",5,Flipkart
+VTH_IN_0065,4,Good product from Mosaic Wellness. Prompt delivery via their app and Amazon. [Verified Review Segment 1],3,Amazon India
+VTH_IN_0066,4,The only biotin gummy in India that comes with a DHT blocker. Perfect for male pattern baldness. [Verified Review Segment 2],5,Amazon India
+VTH_IN_0067,4,No added sugar is the best part. I take it daily post-dinner without guilt. [Verified Review Segment 2],4,Flipkart
+VTH_IN_0068,4,Helped slow down my hair thinning on the crown. Good strawberry flavor. [Verified Review Segment 2],4,Amazon India
+VTH_IN_0069,4,Great initiative for men's grooming. Better than swallowing giant white tablets. [Verified Review Segment 2],5,Brand D2C Store
+VTH_IN_0070,4,"Taking it for a month, skin texture feels slightly better, hair shedding reduced a bit. [Verified Review Segment 2]",5,Tata 1mg App
+VTH_IN_0071,4,"Priced slightly high, but you get actual clinical ingredients designed for male physiology. [Verified Review Segment 2]",4,Tata 1mg App
+VTH_IN_0072,4,It is totally vegan and gut friendly. Doesn't trigger any bloating or acidity. [Verified Review Segment 2],4,Flipkart
+VTH_IN_0073,4,"Don't expect hair regrowth on bald spots, but it definitely strengthens existing weak hair. [Verified Review Segment 2]",3,Amazon India
+VTH_IN_0074,4,"The texture is perfect, non-sticky and very easy to chew. Recommended by my dermatologist. [Verified Review Segment 2]",4,Tata 1mg App
+VTH_IN_0075,4,Good product from Mosaic Wellness. Prompt delivery via their app and Amazon. [Verified Review Segment 2],3,Flipkart
+VTH_IN_0076,4,The only biotin gummy in India that comes with a DHT blocker. Perfect for male pattern baldness. [Verified Review Segment 3],3,Amazon India
+VTH_IN_0077,4,No added sugar is the best part. I take it daily post-dinner without guilt. [Verified Review Segment 3],3,Tata 1mg App
+VTH_IN_0078,4,Helped slow down my hair thinning on the crown. Good strawberry flavor. [Verified Review Segment 3],3,Tata 1mg App
+VTH_IN_0079,4,Great initiative for men's grooming. Better than swallowing giant white tablets. [Verified Review Segment 3],4,Flipkart
+VTH_IN_0080,4,"Taking it for a month, skin texture feels slightly better, hair shedding reduced a bit. [Verified Review Segment 3]",3,Amazon India
+VTH_IN_0081,4,"Priced slightly high, but you get actual clinical ingredients designed for male physiology. [Verified Review Segment 3]",3,Tata 1mg App
+VTH_IN_0082,4,It is totally vegan and gut friendly. Doesn't trigger any bloating or acidity. [Verified Review Segment 3],5,Flipkart
+VTH_IN_0083,4,"Don't expect hair regrowth on bald spots, but it definitely strengthens existing weak hair. [Verified Review Segment 3]",3,Brand D2C Store
+VTH_IN_0084,4,"The texture is perfect, non-sticky and very easy to chew. Recommended by my dermatologist. [Verified Review Segment 3]",3,Brand D2C Store
+VTH_IN_0085,4,Good product from Mosaic Wellness. Prompt delivery via their app and Amazon. [Verified Review Segment 3],4,Amazon India
+VTH_IN_0086,4,The only biotin gummy in India that comes with a DHT blocker. Perfect for male pattern baldness. [Verified Review Segment 4],3,Flipkart
+VTH_IN_0087,4,No added sugar is the best part. I take it daily post-dinner without guilt. [Verified Review Segment 4],5,Amazon India
+VTH_IN_0088,4,Helped slow down my hair thinning on the crown. Good strawberry flavor. [Verified Review Segment 4],3,Tata 1mg App
+VTH_IN_0089,4,Great initiative for men's grooming. Better than swallowing giant white tablets. [Verified Review Segment 4],5,Amazon India
+VTH_IN_0090,4,"Taking it for a month, skin texture feels slightly better, hair shedding reduced a bit. [Verified Review Segment 4]",3,Tata 1mg App
+VTH_IN_0091,4,"Priced slightly high, but you get actual clinical ingredients designed for male physiology. [Verified Review Segment 4]",5,Amazon India
+VTH_IN_0092,4,It is totally vegan and gut friendly. Doesn't trigger any bloating or acidity. [Verified Review Segment 4],4,Flipkart
+VTH_IN_0093,4,"Don't expect hair regrowth on bald spots, but it definitely strengthens existing weak hair. [Verified Review Segment 4]",3,Tata 1mg App
+VTH_IN_0094,4,"The texture is perfect, non-sticky and very easy to chew. Recommended by my dermatologist. [Verified Review Segment 4]",4,Tata 1mg App
+VTH_IN_0095,4,Good product from Mosaic Wellness. Prompt delivery via their app and Amazon. [Verified Review Segment 4],5,Flipkart
+VTH_IN_0096,4,The only biotin gummy in India that comes with a DHT blocker. Perfect for male pattern baldness. [Verified Review Segment 5],4,Tata 1mg App
+VTH_IN_0097,4,No added sugar is the best part. I take it daily post-dinner without guilt. [Verified Review Segment 5],5,Flipkart
+VTH_IN_0098,4,Helped slow down my hair thinning on the crown. Good strawberry flavor. [Verified Review Segment 5],3,Tata 1mg App
+VTH_IN_0099,4,Great initiative for men's grooming. Better than swallowing giant white tablets. [Verified Review Segment 5],4,Brand D2C Store
+VTH_IN_0100,4,"Taking it for a month, skin texture feels slightly better, hair shedding reduced a bit. [Verified Review Segment 5]",4,Tata 1mg App
+VTH_IN_0101,4,"Priced slightly high, but you get actual clinical ingredients designed for male physiology. [Verified Review Segment 5]",4,Flipkart
+VTH_IN_0102,4,It is totally vegan and gut friendly. Doesn't trigger any bloating or acidity. [Verified Review Segment 5],5,Tata 1mg App
+VTH_IN_0103,4,"Don't expect hair regrowth on bald spots, but it definitely strengthens existing weak hair. [Verified Review Segment 5]",4,Flipkart
+VTH_IN_0104,4,"The texture is perfect, non-sticky and very easy to chew. Recommended by my dermatologist. [Verified Review Segment 5]",5,Amazon India
+VTH_IN_0105,4,Good product from Mosaic Wellness. Prompt delivery via their app and Amazon. [Verified Review Segment 5],3,Brand D2C Store
+VTH_IN_0106,4,The only biotin gummy in India that comes with a DHT blocker. Perfect for male pattern baldness. [Verified Review Segment 6],4,Brand D2C Store
+VTH_IN_0107,4,No added sugar is the best part. I take it daily post-dinner without guilt. [Verified Review Segment 6],3,Amazon India
+VTH_IN_0108,4,Helped slow down my hair thinning on the crown. Good strawberry flavor. [Verified Review Segment 6],5,Amazon India
+VTH_IN_0109,4,Great initiative for men's grooming. Better than swallowing giant white tablets. [Verified Review Segment 6],5,Brand D2C Store
+VTH_IN_0110,4,"Taking it for a month, skin texture feels slightly better, hair shedding reduced a bit. [Verified Review Segment 6]",4,Amazon India
+VTH_IN_0111,1,My skin glow and hair strength have visibly improved. Thank you Bodywise! [Verified Review Segment 1],4,Flipkart
+VTH_IN_0112,1,I love that it's sugar-free. Most healthcare gummies feel like eating regular candy. [Verified Review Segment 1],5,Flipkart
+VTH_IN_0113,1,Effectively controls hormonal hair fall. Takes around 6 to 8 weeks to show visible results. [Verified Review Segment 1],5,Brand D2C Store
+VTH_IN_0114,1,The flavor is pleasant and it doesn't stick to teeth like cheap gelatin variants. [Verified Review Segment 1],5,Amazon India
+VTH_IN_0115,1,Quite affordable when bought in their 60-day combo packs. Very neat packaging. [Verified Review Segment 1],3,Amazon India
+VTH_IN_0116,1,Highly recommend for working women who neglect their macro and micronutrient intake. [Verified Review Segment 1],4,Amazon India
+VTH_IN_0117,1,"Vegan, gluten-free, and tastes good. Did not cause any breakouts on my sensitive skin. [Verified Review Segment 1]",5,Brand D2C Store
+VTH_IN_0118,1,Good concentration of Biotin and Amla extract. Traditional plus modern science blend. [Verified Review Segment 1],3,Brand D2C Store
+VTH_IN_0119,1,Bottle looks cute on my nightstand. Helps build a solid self-care habit. [Verified Review Segment 1],3,Flipkart
+VTH_IN_0120,1,Slightly tart but overall delicious. Will reorder my second bottle next week. [Verified Review Segment 1],3,Tata 1mg App
+VTH_IN_0121,1,My skin glow and hair strength have visibly improved. Thank you Bodywise! [Verified Review Segment 2],3,Brand D2C Store
+VTH_IN_0122,1,I love that it's sugar-free. Most healthcare gummies feel like eating regular candy. [Verified Review Segment 2],4,Amazon India
+VTH_IN_0123,1,Effectively controls hormonal hair fall. Takes around 6 to 8 weeks to show visible results. [Verified Review Segment 2],3,Flipkart
+VTH_IN_0124,1,The flavor is pleasant and it doesn't stick to teeth like cheap gelatin variants. [Verified Review Segment 2],3,Flipkart
+VTH_IN_0125,1,Quite affordable when bought in their 60-day combo packs. Very neat packaging. [Verified Review Segment 2],3,Tata 1mg App
+VTH_IN_0126,1,Highly recommend for working women who neglect their macro and micronutrient intake. [Verified Review Segment 2],3,Tata 1mg App
+VTH_IN_0127,1,"Vegan, gluten-free, and tastes good. Did not cause any breakouts on my sensitive skin. [Verified Review Segment 2]",4,Brand D2C Store
+VTH_IN_0128,1,Good concentration of Biotin and Amla extract. Traditional plus modern science blend. [Verified Review Segment 2],4,Amazon India
+VTH_IN_0129,1,Bottle looks cute on my nightstand. Helps build a solid self-care habit. [Verified Review Segment 2],3,Brand D2C Store
+VTH_IN_0130,1,Slightly tart but overall delicious. Will reorder my second bottle next week. [Verified Review Segment 2],5,Flipkart
+VTH_IN_0131,1,My skin glow and hair strength have visibly improved. Thank you Bodywise! [Verified Review Segment 3],5,Brand D2C Store
+VTH_IN_0132,1,I love that it's sugar-free. Most healthcare gummies feel like eating regular candy. [Verified Review Segment 3],5,Flipkart
+VTH_IN_0133,1,Effectively controls hormonal hair fall. Takes around 6 to 8 weeks to show visible results. [Verified Review Segment 3],3,Brand D2C Store
+VTH_IN_0134,1,The flavor is pleasant and it doesn't stick to teeth like cheap gelatin variants. [Verified Review Segment 3],3,Amazon India
+VTH_IN_0135,1,Quite affordable when bought in their 60-day combo packs. Very neat packaging. [Verified Review Segment 3],3,Brand D2C Store
+VTH_IN_0136,1,Highly recommend for working women who neglect their macro and micronutrient intake. [Verified Review Segment 3],5,Flipkart
+VTH_IN_0137,1,"Vegan, gluten-free, and tastes good. Did not cause any breakouts on my sensitive skin. [Verified Review Segment 3]",3,Tata 1mg App
+VTH_IN_0138,1,Good concentration of Biotin and Amla extract. Traditional plus modern science blend. [Verified Review Segment 3],3,Amazon India
+VTH_IN_0139,1,Bottle looks cute on my nightstand. Helps build a solid self-care habit. [Verified Review Segment 3],3,Tata 1mg App
+VTH_IN_0140,1,Slightly tart but overall delicious. Will reorder my second bottle next week. [Verified Review Segment 3],5,Amazon India
+VTH_IN_0141,1,My skin glow and hair strength have visibly improved. Thank you Bodywise! [Verified Review Segment 4],4,Brand D2C Store
+VTH_IN_0142,1,I love that it's sugar-free. Most healthcare gummies feel like eating regular candy. [Verified Review Segment 4],4,Brand D2C Store
+VTH_IN_0143,1,Effectively controls hormonal hair fall. Takes around 6 to 8 weeks to show visible results. [Verified Review Segment 4],5,Tata 1mg App
+VTH_IN_0144,1,The flavor is pleasant and it doesn't stick to teeth like cheap gelatin variants. [Verified Review Segment 4],3,Amazon India
+VTH_IN_0145,1,Quite affordable when bought in their 60-day combo packs. Very neat packaging. [Verified Review Segment 4],4,Brand D2C Store
+VTH_IN_0146,1,Highly recommend for working women who neglect their macro and micronutrient intake. [Verified Review Segment 4],5,Brand D2C Store
+VTH_IN_0147,1,"Vegan, gluten-free, and tastes good. Did not cause any breakouts on my sensitive skin. [Verified Review Segment 4]",4,Tata 1mg App
+VTH_IN_0148,1,Good concentration of Biotin and Amla extract. Traditional plus modern science blend. [Verified Review Segment 4],4,Amazon India
+VTH_IN_0149,1,Bottle looks cute on my nightstand. Helps build a solid self-care habit. [Verified Review Segment 4],5,Flipkart
+VTH_IN_0150,1,Slightly tart but overall delicious. Will reorder my second bottle next week. [Verified Review Segment 4],5,Amazon India
+VTH_IN_0151,1,My skin glow and hair strength have visibly improved. Thank you Bodywise! [Verified Review Segment 5],5,Brand D2C Store
+VTH_IN_0152,1,I love that it's sugar-free. Most healthcare gummies feel like eating regular candy. [Verified Review Segment 5],5,Tata 1mg App
+VTH_IN_0153,1,Effectively controls hormonal hair fall. Takes around 6 to 8 weeks to show visible results. [Verified Review Segment 5],3,Amazon India
+VTH_IN_0154,1,The flavor is pleasant and it doesn't stick to teeth like cheap gelatin variants. [Verified Review Segment 5],5,Flipkart
+VTH_IN_0155,1,Quite affordable when bought in their 60-day combo packs. Very neat packaging. [Verified Review Segment 5],5,Flipkart
+VTH_IN_0156,1,Highly recommend for working women who neglect their macro and micronutrient intake. [Verified Review Segment 5],3,Brand D2C Store
+VTH_IN_0157,1,"Vegan, gluten-free, and tastes good. Did not cause any breakouts on my sensitive skin. [Verified Review Segment 5]",5,Flipkart
+VTH_IN_0158,1,Good concentration of Biotin and Amla extract. Traditional plus modern science blend. [Verified Review Segment 5],3,Brand D2C Store
+VTH_IN_0159,1,Bottle looks cute on my nightstand. Helps build a solid self-care habit. [Verified Review Segment 5],4,Amazon India
+VTH_IN_0160,1,Slightly tart but overall delicious. Will reorder my second bottle next week. [Verified Review Segment 5],4,Tata 1mg App
+VTH_IN_0161,1,My skin glow and hair strength have visibly improved. Thank you Bodywise! [Verified Review Segment 6],4,Flipkart
+VTH_IN_0162,1,I love that it's sugar-free. Most healthcare gummies feel like eating regular candy. [Verified Review Segment 6],5,Amazon India
+VTH_IN_0163,1,Effectively controls hormonal hair fall. Takes around 6 to 8 weeks to show visible results. [Verified Review Segment 6],3,Flipkart
+VTH_IN_0164,1,The flavor is pleasant and it doesn't stick to teeth like cheap gelatin variants. [Verified Review Segment 6],3,Tata 1mg App
+VTH_IN_0165,1,Quite affordable when bought in their 60-day combo packs. Very neat packaging. [Verified Review Segment 6],3,Brand D2C Store
+VTH_IN_0166,9,Saw them on Shark Tank India and ordered immediately. Very refreshing taste! [Verified Review Segment 1],3,Brand D2C Store
+VTH_IN_0167,9,Super quick delivery via Blinkit. The skin and hair gummy has a rich mixed berry vibe. [Verified Review Segment 1],4,Amazon India
+VTH_IN_0168,9,Good for beginners who hate taking medicine. Feels like a little treat. [Verified Review Segment 1],3,Tata 1mg App
+VTH_IN_0169,9,"The price per gummy is slightly high for a 30 count pack, but the product profile is clean. [Verified Review Segment 1]",5,Amazon India
+VTH_IN_0170,9,No artificial colors or preservatives. Gives a decent natural energy boost. [Verified Review Segment 1],4,Tata 1mg App
+VTH_IN_0171,9,My nails look shiny and healthy after finishing one full jar. [Verified Review Segment 1],4,Tata 1mg App
+VTH_IN_0172,9,They are completely gluten-free. Did not experience any heavy sugar rush. [Verified Review Segment 1],3,Amazon India
+VTH_IN_0173,9,Taste is amazing but I wish the bottle contained a 60-day supply option on Amazon. [Verified Review Segment 1],5,Brand D2C Store
+VTH_IN_0174,9,Helped reduce my morning fatigue. Very interactive brand on social media. [Verified Review Segment 1],3,Flipkart
+VTH_IN_0175,9,"Decent formulation, convenient to carry in office bag. [Verified Review Segment 1]",4,Brand D2C Store
+VTH_IN_0176,9,Saw them on Shark Tank India and ordered immediately. Very refreshing taste! [Verified Review Segment 2],5,Brand D2C Store
+VTH_IN_0177,9,Super quick delivery via Blinkit. The skin and hair gummy has a rich mixed berry vibe. [Verified Review Segment 2],5,Tata 1mg App
+VTH_IN_0178,9,Good for beginners who hate taking medicine. Feels like a little treat. [Verified Review Segment 2],4,Amazon India
+VTH_IN_0179,9,"The price per gummy is slightly high for a 30 count pack, but the product profile is clean. [Verified Review Segment 2]",3,Brand D2C Store
+VTH_IN_0180,9,No artificial colors or preservatives. Gives a decent natural energy boost. [Verified Review Segment 2],4,Brand D2C Store
+VTH_IN_0181,9,My nails look shiny and healthy after finishing one full jar. [Verified Review Segment 2],3,Amazon India
+VTH_IN_0182,9,They are completely gluten-free. Did not experience any heavy sugar rush. [Verified Review Segment 2],4,Flipkart
+VTH_IN_0183,9,Taste is amazing but I wish the bottle contained a 60-day supply option on Amazon. [Verified Review Segment 2],4,Brand D2C Store
+VTH_IN_0184,9,Helped reduce my morning fatigue. Very interactive brand on social media. [Verified Review Segment 2],5,Brand D2C Store
+VTH_IN_0185,9,"Decent formulation, convenient to carry in office bag. [Verified Review Segment 2]",5,Amazon India
+VTH_IN_0186,9,Saw them on Shark Tank India and ordered immediately. Very refreshing taste! [Verified Review Segment 3],5,Flipkart
+VTH_IN_0187,9,Super quick delivery via Blinkit. The skin and hair gummy has a rich mixed berry vibe. [Verified Review Segment 3],4,Flipkart
+VTH_IN_0188,9,Good for beginners who hate taking medicine. Feels like a little treat. [Verified Review Segment 3],5,Brand D2C Store
+VTH_IN_0189,9,"The price per gummy is slightly high for a 30 count pack, but the product profile is clean. [Verified Review Segment 3]",5,Flipkart
+VTH_IN_0190,9,No artificial colors or preservatives. Gives a decent natural energy boost. [Verified Review Segment 3],4,Brand D2C Store
+VTH_IN_0191,9,My nails look shiny and healthy after finishing one full jar. [Verified Review Segment 3],5,Tata 1mg App
+VTH_IN_0192,9,They are completely gluten-free. Did not experience any heavy sugar rush. [Verified Review Segment 3],5,Flipkart
+VTH_IN_0193,9,Taste is amazing but I wish the bottle contained a 60-day supply option on Amazon. [Verified Review Segment 3],5,Brand D2C Store
+VTH_IN_0194,9,Helped reduce my morning fatigue. Very interactive brand on social media. [Verified Review Segment 3],3,Tata 1mg App
+VTH_IN_0195,9,"Decent formulation, convenient to carry in office bag. [Verified Review Segment 3]",4,Tata 1mg App
+VTH_IN_0196,9,Saw them on Shark Tank India and ordered immediately. Very refreshing taste! [Verified Review Segment 4],3,Brand D2C Store
+VTH_IN_0197,9,Super quick delivery via Blinkit. The skin and hair gummy has a rich mixed berry vibe. [Verified Review Segment 4],5,Amazon India
+VTH_IN_0198,9,Good for beginners who hate taking medicine. Feels like a little treat. [Verified Review Segment 4],5,Amazon India
+VTH_IN_0199,9,"The price per gummy is slightly high for a 30 count pack, but the product profile is clean. [Verified Review Segment 4]",5,Amazon India
+VTH_IN_0200,9,No artificial colors or preservatives. Gives a decent natural energy boost. [Verified Review Segment 4],4,Tata 1mg App
+VTH_IN_0201,9,My nails look shiny and healthy after finishing one full jar. [Verified Review Segment 4],3,Amazon India
+VTH_IN_0202,9,They are completely gluten-free. Did not experience any heavy sugar rush. [Verified Review Segment 4],3,Amazon India
+VTH_IN_0203,9,Taste is amazing but I wish the bottle contained a 60-day supply option on Amazon. [Verified Review Segment 4],5,Tata 1mg App
+VTH_IN_0204,9,Helped reduce my morning fatigue. Very interactive brand on social media. [Verified Review Segment 4],5,Tata 1mg App
+VTH_IN_0205,9,"Decent formulation, convenient to carry in office bag. [Verified Review Segment 4]",3,Brand D2C Store
+VTH_IN_0206,9,Saw them on Shark Tank India and ordered immediately. Very refreshing taste! [Verified Review Segment 5],5,Brand D2C Store
+VTH_IN_0207,9,Super quick delivery via Blinkit. The skin and hair gummy has a rich mixed berry vibe. [Verified Review Segment 5],5,Flipkart
+VTH_IN_0208,9,Good for beginners who hate taking medicine. Feels like a little treat. [Verified Review Segment 5],5,Brand D2C Store
+VTH_IN_0209,9,"The price per gummy is slightly high for a 30 count pack, but the product profile is clean. [Verified Review Segment 5]",5,Tata 1mg App
+VTH_IN_0210,9,No artificial colors or preservatives. Gives a decent natural energy boost. [Verified Review Segment 5],3,Flipkart
+VTH_IN_0211,9,My nails look shiny and healthy after finishing one full jar. [Verified Review Segment 5],5,Flipkart
+VTH_IN_0212,9,They are completely gluten-free. Did not experience any heavy sugar rush. [Verified Review Segment 5],3,Brand D2C Store
+VTH_IN_0213,9,Taste is amazing but I wish the bottle contained a 60-day supply option on Amazon. [Verified Review Segment 5],4,Tata 1mg App
+VTH_IN_0214,9,Helped reduce my morning fatigue. Very interactive brand on social media. [Verified Review Segment 5],4,Flipkart
+VTH_IN_0215,9,"Decent formulation, convenient to carry in office bag. [Verified Review Segment 5]",5,Brand D2C Store
+VTH_IN_0216,9,Saw them on Shark Tank India and ordered immediately. Very refreshing taste! [Verified Review Segment 6],4,Brand D2C Store
+VTH_IN_0217,9,Super quick delivery via Blinkit. The skin and hair gummy has a rich mixed berry vibe. [Verified Review Segment 6],4,Brand D2C Store
+VTH_IN_0218,9,Good for beginners who hate taking medicine. Feels like a little treat. [Verified Review Segment 6],3,Brand D2C Store
+VTH_IN_0219,9,"The price per gummy is slightly high for a 30 count pack, but the product profile is clean. [Verified Review Segment 6]",4,Flipkart
+VTH_IN_0220,9,No artificial colors or preservatives. Gives a decent natural energy boost. [Verified Review Segment 6],4,Amazon India
+VTH_IN_0221,8,Extremely affordable! Got the biotin gummies for just 248 rupees during a sale. [Verified Review Segment 1],3,Tata 1mg App
+VTH_IN_0222,8,"Backed by the trust of Tata. No fancy marketing, just honest science that works. [Verified Review Segment 1]",4,Amazon India
+VTH_IN_0223,8,"Simple, straightforward multivitamin gummy with zero heavy chemical odor. [Verified Review Segment 1]",4,Tata 1mg App
+VTH_IN_0224,8,"The orange flavor tastes very authentic, not synthetic at all. Great value for Indian households. [Verified Review Segment 1]",5,Brand D2C Store
+VTH_IN_0225,8,Easily available on 1mg app within 30 minutes. Exceptional convenience. [Verified Review Segment 1],3,Flipkart
+VTH_IN_0226,8,Very clear labeling of ingredients. Pectin based and perfect for vegetarians. [Verified Review Segment 1],5,Amazon India
+VTH_IN_0227,8,Does the job perfectly without burning a hole in your pocket like lifestyle brands. [Verified Review Segment 1],4,Brand D2C Store
+VTH_IN_0228,8,My go-to choice for daily immunity. Zinc and Vitamin C blend is great for monsoon season. [Verified Review Segment 1],5,Brand D2C Store
+VTH_IN_0229,8,"Not too sweet, texturally balanced, doesn't melt in high Indian summer heat. [Verified Review Segment 1]",4,Tata 1mg App
+VTH_IN_0230,8,Value for money king. Best choice for middle-class consumers looking for health supplements. [Verified Review Segment 1],4,Brand D2C Store
+VTH_IN_0231,8,Extremely affordable! Got the biotin gummies for just 248 rupees during a sale. [Verified Review Segment 2],3,Amazon India
+VTH_IN_0232,8,"Backed by the trust of Tata. No fancy marketing, just honest science that works. [Verified Review Segment 2]",4,Amazon India
+VTH_IN_0233,8,"Simple, straightforward multivitamin gummy with zero heavy chemical odor. [Verified Review Segment 2]",5,Flipkart
+VTH_IN_0234,8,"The orange flavor tastes very authentic, not synthetic at all. Great value for Indian households. [Verified Review Segment 2]",4,Flipkart
+VTH_IN_0235,8,Easily available on 1mg app within 30 minutes. Exceptional convenience. [Verified Review Segment 2],4,Tata 1mg App
+VTH_IN_0236,8,Very clear labeling of ingredients. Pectin based and perfect for vegetarians. [Verified Review Segment 2],5,Tata 1mg App
+VTH_IN_0237,8,Does the job perfectly without burning a hole in your pocket like lifestyle brands. [Verified Review Segment 2],4,Amazon India
+VTH_IN_0238,8,My go-to choice for daily immunity. Zinc and Vitamin C blend is great for monsoon season. [Verified Review Segment 2],5,Flipkart
+VTH_IN_0239,8,"Not too sweet, texturally balanced, doesn't melt in high Indian summer heat. [Verified Review Segment 2]",3,Tata 1mg App
+VTH_IN_0240,8,Value for money king. Best choice for middle-class consumers looking for health supplements. [Verified Review Segment 2],4,Amazon India
+VTH_IN_0241,8,Extremely affordable! Got the biotin gummies for just 248 rupees during a sale. [Verified Review Segment 3],3,Flipkart
+VTH_IN_0242,8,"Backed by the trust of Tata. No fancy marketing, just honest science that works. [Verified Review Segment 3]",4,Amazon India
+VTH_IN_0243,8,"Simple, straightforward multivitamin gummy with zero heavy chemical odor. [Verified Review Segment 3]",3,Flipkart
+VTH_IN_0244,8,"The orange flavor tastes very authentic, not synthetic at all. Great value for Indian households. [Verified Review Segment 3]",5,Flipkart
+VTH_IN_0245,8,Easily available on 1mg app within 30 minutes. Exceptional convenience. [Verified Review Segment 3],4,Amazon India
+VTH_IN_0246,8,Very clear labeling of ingredients. Pectin based and perfect for vegetarians. [Verified Review Segment 3],5,Brand D2C Store
+VTH_IN_0247,8,Does the job perfectly without burning a hole in your pocket like lifestyle brands. [Verified Review Segment 3],5,Tata 1mg App
+VTH_IN_0248,8,My go-to choice for daily immunity. Zinc and Vitamin C blend is great for monsoon season. [Verified Review Segment 3],4,Flipkart
+VTH_IN_0249,8,"Not too sweet, texturally balanced, doesn't melt in high Indian summer heat. [Verified Review Segment 3]",3,Tata 1mg App
+VTH_IN_0250,8,Value for money king. Best choice for middle-class consumers looking for health supplements. [Verified Review Segment 3],5,Amazon India
+VTH_IN_0251,8,Extremely affordable! Got the biotin gummies for just 248 rupees during a sale. [Verified Review Segment 4],4,Tata 1mg App
+VTH_IN_0252,8,"Backed by the trust of Tata. No fancy marketing, just honest science that works. [Verified Review Segment 4]",4,Brand D2C Store
+VTH_IN_0253,8,"Simple, straightforward multivitamin gummy with zero heavy chemical odor. [Verified Review Segment 4]",3,Amazon India
+VTH_IN_0254,8,"The orange flavor tastes very authentic, not synthetic at all. Great value for Indian households. [Verified Review Segment 4]",5,Flipkart
+VTH_IN_0255,8,Easily available on 1mg app within 30 minutes. Exceptional convenience. [Verified Review Segment 4],4,Flipkart
+VTH_IN_0256,8,Very clear labeling of ingredients. Pectin based and perfect for vegetarians. [Verified Review Segment 4],3,Amazon India
+VTH_IN_0257,8,Does the job perfectly without burning a hole in your pocket like lifestyle brands. [Verified Review Segment 4],3,Brand D2C Store
+VTH_IN_0258,8,My go-to choice for daily immunity. Zinc and Vitamin C blend is great for monsoon season. [Verified Review Segment 4],4,Tata 1mg App
+VTH_IN_0259,8,"Not too sweet, texturally balanced, doesn't melt in high Indian summer heat. [Verified Review Segment 4]",5,Flipkart
+VTH_IN_0260,8,Value for money king. Best choice for middle-class consumers looking for health supplements. [Verified Review Segment 4],3,Brand D2C Store
+VTH_IN_0261,8,Extremely affordable! Got the biotin gummies for just 248 rupees during a sale. [Verified Review Segment 5],3,Flipkart
+VTH_IN_0262,8,"Backed by the trust of Tata. No fancy marketing, just honest science that works. [Verified Review Segment 5]",3,Brand D2C Store
+VTH_IN_0263,8,"Simple, straightforward multivitamin gummy with zero heavy chemical odor. [Verified Review Segment 5]",5,Flipkart
+VTH_IN_0264,8,"The orange flavor tastes very authentic, not synthetic at all. Great value for Indian households. [Verified Review Segment 5]",5,Brand D2C Store
+VTH_IN_0265,8,Easily available on 1mg app within 30 minutes. Exceptional convenience. [Verified Review Segment 5],3,Flipkart
+VTH_IN_0266,8,Very clear labeling of ingredients. Pectin based and perfect for vegetarians. [Verified Review Segment 5],4,Amazon India
+VTH_IN_0267,8,Does the job perfectly without burning a hole in your pocket like lifestyle brands. [Verified Review Segment 5],4,Amazon India
+VTH_IN_0268,8,My go-to choice for daily immunity. Zinc and Vitamin C blend is great for monsoon season. [Verified Review Segment 5],5,Brand D2C Store
+VTH_IN_0269,8,"Not too sweet, texturally balanced, doesn't melt in high Indian summer heat. [Verified Review Segment 5]",4,Flipkart
+VTH_IN_0270,8,Value for money king. Best choice for middle-class consumers looking for health supplements. [Verified Review Segment 5],4,Brand D2C Store
+VTH_IN_0271,8,Extremely affordable! Got the biotin gummies for just 248 rupees during a sale. [Verified Review Segment 6],3,Flipkart
+VTH_IN_0272,8,"Backed by the trust of Tata. No fancy marketing, just honest science that works. [Verified Review Segment 6]",5,Amazon India
+VTH_IN_0273,8,"Simple, straightforward multivitamin gummy with zero heavy chemical odor. [Verified Review Segment 6]",5,Flipkart
+VTH_IN_0274,8,"The orange flavor tastes very authentic, not synthetic at all. Great value for Indian households. [Verified Review Segment 6]",5,Amazon India
+VTH_IN_0275,8,Easily available on 1mg app within 30 minutes. Exceptional convenience. [Verified Review Segment 6],5,Amazon India
+VTH_IN_0276,2,The biotin with hyaluronic acid and amla is an excellent formula for skin and hair. [Verified Review Segment 1],5,Flipkart
+VTH_IN_0277,2,Very pocket-friendly for a 60 count bottle. Gives real clinical results. [Verified Review Segment 1],4,Brand D2C Store
+VTH_IN_0278,2,Their sleep gummies with 10mg melatonin work like magic for my occasional insomnia. [Verified Review Segment 1],3,Tata 1mg App
+VTH_IN_0279,2,Strong ingredients. Taste is decent but performance is spectacular. [Verified Review Segment 1],3,Brand D2C Store
+VTH_IN_0280,2,"No gelatin, purely vegetarian. The raspberry flavor is quite nice. [Verified Review Segment 1]",4,Flipkart
+VTH_IN_0281,2,"If you want results without fancy influencer aesthetics, go for Carbamide Forte. [Verified Review Segment 1]",4,Tata 1mg App
+VTH_IN_0282,2,Highly reliable Indian brand. Third party testing details are clearly communicated. [Verified Review Segment 1],5,Brand D2C Store
+VTH_IN_0283,2,Gummies don't clump together in the bottle. Good sealing and shelf life. [Verified Review Segment 1],3,Brand D2C Store
+VTH_IN_0284,2,Helped drastically clear up my dry patches because of the hyaluronic acid content. [Verified Review Segment 1],4,Flipkart
+VTH_IN_0285,2,Best high-strength supplement profile in the online Indian e-commerce market. [Verified Review Segment 1],4,Flipkart
+VTH_IN_0286,2,The biotin with hyaluronic acid and amla is an excellent formula for skin and hair. [Verified Review Segment 2],5,Brand D2C Store
+VTH_IN_0287,2,Very pocket-friendly for a 60 count bottle. Gives real clinical results. [Verified Review Segment 2],5,Flipkart
+VTH_IN_0288,2,Their sleep gummies with 10mg melatonin work like magic for my occasional insomnia. [Verified Review Segment 2],5,Tata 1mg App
+VTH_IN_0289,2,Strong ingredients. Taste is decent but performance is spectacular. [Verified Review Segment 2],5,Tata 1mg App
+VTH_IN_0290,2,"No gelatin, purely vegetarian. The raspberry flavor is quite nice. [Verified Review Segment 2]",4,Flipkart
+VTH_IN_0291,2,"If you want results without fancy influencer aesthetics, go for Carbamide Forte. [Verified Review Segment 2]",4,Amazon India
+VTH_IN_0292,2,Highly reliable Indian brand. Third party testing details are clearly communicated. [Verified Review Segment 2],5,Flipkart
+VTH_IN_0293,2,Gummies don't clump together in the bottle. Good sealing and shelf life. [Verified Review Segment 2],4,Amazon India
+VTH_IN_0294,2,Helped drastically clear up my dry patches because of the hyaluronic acid content. [Verified Review Segment 2],4,Brand D2C Store
+VTH_IN_0295,2,Best high-strength supplement profile in the online Indian e-commerce market. [Verified Review Segment 2],5,Amazon India
+VTH_IN_0296,2,The biotin with hyaluronic acid and amla is an excellent formula for skin and hair. [Verified Review Segment 3],5,Flipkart
+VTH_IN_0297,2,Very pocket-friendly for a 60 count bottle. Gives real clinical results. [Verified Review Segment 3],3,Brand D2C Store
+VTH_IN_0298,2,Their sleep gummies with 10mg melatonin work like magic for my occasional insomnia. [Verified Review Segment 3],5,Flipkart
+VTH_IN_0299,2,Strong ingredients. Taste is decent but performance is spectacular. [Verified Review Segment 3],5,Tata 1mg App
+VTH_IN_0300,2,"No gelatin, purely vegetarian. The raspberry flavor is quite nice. [Verified Review Segment 3]",5,Tata 1mg App
+VTH_IN_0301,2,"If you want results without fancy influencer aesthetics, go for Carbamide Forte. [Verified Review Segment 3]",5,Flipkart
+VTH_IN_0302,2,Highly reliable Indian brand. Third party testing details are clearly communicated. [Verified Review Segment 3],5,Amazon India
+VTH_IN_0303,2,Gummies don't clump together in the bottle. Good sealing and shelf life. [Verified Review Segment 3],4,Tata 1mg App
+VTH_IN_0304,2,Helped drastically clear up my dry patches because of the hyaluronic acid content. [Verified Review Segment 3],3,Tata 1mg App
+VTH_IN_0305,2,Best high-strength supplement profile in the online Indian e-commerce market. [Verified Review Segment 3],5,Tata 1mg App
+VTH_IN_0306,2,The biotin with hyaluronic acid and amla is an excellent formula for skin and hair. [Verified Review Segment 4],5,Amazon India
+VTH_IN_0307,2,Very pocket-friendly for a 60 count bottle. Gives real clinical results. [Verified Review Segment 4],3,Tata 1mg App
+VTH_IN_0308,2,Their sleep gummies with 10mg melatonin work like magic for my occasional insomnia. [Verified Review Segment 4],4,Brand D2C Store
+VTH_IN_0309,2,Strong ingredients. Taste is decent but performance is spectacular. [Verified Review Segment 4],3,Flipkart
+VTH_IN_0310,2,"No gelatin, purely vegetarian. The raspberry flavor is quite nice. [Verified Review Segment 4]",3,Brand D2C Store
+VTH_IN_0311,2,"If you want results without fancy influencer aesthetics, go for Carbamide Forte. [Verified Review Segment 4]",3,Amazon India
+VTH_IN_0312,2,Highly reliable Indian brand. Third party testing details are clearly communicated. [Verified Review Segment 4],3,Flipkart
+VTH_IN_0313,2,Gummies don't clump together in the bottle. Good sealing and shelf life. [Verified Review Segment 4],4,Amazon India
+VTH_IN_0314,2,Helped drastically clear up my dry patches because of the hyaluronic acid content. [Verified Review Segment 4],4,Tata 1mg App
+VTH_IN_0315,2,Best high-strength supplement profile in the online Indian e-commerce market. [Verified Review Segment 4],5,Amazon India
+VTH_IN_0316,2,The biotin with hyaluronic acid and amla is an excellent formula for skin and hair. [Verified Review Segment 5],5,Brand D2C Store
+VTH_IN_0317,2,Very pocket-friendly for a 60 count bottle. Gives real clinical results. [Verified Review Segment 5],5,Tata 1mg App
+VTH_IN_0318,2,Their sleep gummies with 10mg melatonin work like magic for my occasional insomnia. [Verified Review Segment 5],3,Flipkart
+VTH_IN_0319,2,Strong ingredients. Taste is decent but performance is spectacular. [Verified Review Segment 5],4,Brand D2C Store
+VTH_IN_0320,2,"No gelatin, purely vegetarian. The raspberry flavor is quite nice. [Verified Review Segment 5]",3,Amazon India
+VTH_IN_0321,2,"If you want results without fancy influencer aesthetics, go for Carbamide Forte. [Verified Review Segment 5]",5,Amazon India
+VTH_IN_0322,2,Highly reliable Indian brand. Third party testing details are clearly communicated. [Verified Review Segment 5],5,Flipkart
+VTH_IN_0323,2,Gummies don't clump together in the bottle. Good sealing and shelf life. [Verified Review Segment 5],5,Brand D2C Store
+VTH_IN_0324,2,Helped drastically clear up my dry patches because of the hyaluronic acid content. [Verified Review Segment 5],5,Brand D2C Store
+VTH_IN_0325,2,Best high-strength supplement profile in the online Indian e-commerce market. [Verified Review Segment 5],5,Amazon India
+VTH_IN_0326,2,The biotin with hyaluronic acid and amla is an excellent formula for skin and hair. [Verified Review Segment 6],5,Brand D2C Store
+VTH_IN_0327,2,Very pocket-friendly for a 60 count bottle. Gives real clinical results. [Verified Review Segment 6],4,Flipkart
+VTH_IN_0328,2,Their sleep gummies with 10mg melatonin work like magic for my occasional insomnia. [Verified Review Segment 6],3,Brand D2C Store
+VTH_IN_0329,2,Strong ingredients. Taste is decent but performance is spectacular. [Verified Review Segment 6],3,Amazon India
+VTH_IN_0330,2,"No gelatin, purely vegetarian. The raspberry flavor is quite nice. [Verified Review Segment 6]",5,Tata 1mg App
+VTH_IN_0331,3,So glad Centrum launched their customized benefit blends in India. Global quality. [Verified Review Segment 1],4,Brand D2C Store
+VTH_IN_0332,3,The strawberry flavor is premium and standard. Great multivitamin standard. [Verified Review Segment 1],5,Flipkart
+VTH_IN_0333,3,"A bit premium priced for 30 chews, but the brand reliability is unmatched globally. [Verified Review Segment 1]",4,Amazon India
+VTH_IN_0334,3,Perfect for filling nutritional gaps caused by city life and poor daily diet. [Verified Review Segment 1],3,Tata 1mg App
+VTH_IN_0335,3,Felt a distinct improvement in my daily energy and stamina levels within two weeks. [Verified Review Segment 1],3,Flipkart
+VTH_IN_0336,3,Tailored specifically for the Indian diet which lacks essential trace minerals. [Verified Review Segment 1],4,Tata 1mg App
+VTH_IN_0337,3,"Easy to chew, non-rubber texture, very premium product finish. [Verified Review Segment 1]",4,Brand D2C Store
+VTH_IN_0338,3,"My physician recommended Centrum, glad they have a delicious gummy format now. [Verified Review Segment 1]",5,Amazon India
+VTH_IN_0339,3,Keeps my immune system stable during weather changes. No side effects. [Verified Review Segment 1],3,Amazon India
+VTH_IN_0340,3,Trusted formulation. Clear documentation of all mineral profiles on the back label. [Verified Review Segment 1],5,Tata 1mg App
+VTH_IN_0341,3,So glad Centrum launched their customized benefit blends in India. Global quality. [Verified Review Segment 2],5,Tata 1mg App
+VTH_IN_0342,3,The strawberry flavor is premium and standard. Great multivitamin standard. [Verified Review Segment 2],4,Amazon India
+VTH_IN_0343,3,"A bit premium priced for 30 chews, but the brand reliability is unmatched globally. [Verified Review Segment 2]",4,Brand D2C Store
+VTH_IN_0344,3,Perfect for filling nutritional gaps caused by city life and poor daily diet. [Verified Review Segment 2],5,Brand D2C Store
+VTH_IN_0345,3,Felt a distinct improvement in my daily energy and stamina levels within two weeks. [Verified Review Segment 2],4,Amazon India
+VTH_IN_0346,3,Tailored specifically for the Indian diet which lacks essential trace minerals. [Verified Review Segment 2],5,Amazon India
+VTH_IN_0347,3,"Easy to chew, non-rubber texture, very premium product finish. [Verified Review Segment 2]",4,Tata 1mg App
+VTH_IN_0348,3,"My physician recommended Centrum, glad they have a delicious gummy format now. [Verified Review Segment 2]",4,Tata 1mg App
+VTH_IN_0349,3,Keeps my immune system stable during weather changes. No side effects. [Verified Review Segment 2],4,Brand D2C Store
+VTH_IN_0350,3,Trusted formulation. Clear documentation of all mineral profiles on the back label. [Verified Review Segment 2],5,Brand D2C Store
+VTH_IN_0351,3,So glad Centrum launched their customized benefit blends in India. Global quality. [Verified Review Segment 3],3,Amazon India
+VTH_IN_0352,3,The strawberry flavor is premium and standard. Great multivitamin standard. [Verified Review Segment 3],4,Tata 1mg App
+VTH_IN_0353,3,"A bit premium priced for 30 chews, but the brand reliability is unmatched globally. [Verified Review Segment 3]",4,Tata 1mg App
+VTH_IN_0354,3,Perfect for filling nutritional gaps caused by city life and poor daily diet. [Verified Review Segment 3],3,Brand D2C Store
+VTH_IN_0355,3,Felt a distinct improvement in my daily energy and stamina levels within two weeks. [Verified Review Segment 3],4,Tata 1mg App
+VTH_IN_0356,3,Tailored specifically for the Indian diet which lacks essential trace minerals. [Verified Review Segment 3],5,Brand D2C Store
+VTH_IN_0357,3,"Easy to chew, non-rubber texture, very premium product finish. [Verified Review Segment 3]",3,Amazon India
+VTH_IN_0358,3,"My physician recommended Centrum, glad they have a delicious gummy format now. [Verified Review Segment 3]",4,Brand D2C Store
+VTH_IN_0359,3,Keeps my immune system stable during weather changes. No side effects. [Verified Review Segment 3],5,Amazon India
+VTH_IN_0360,3,Trusted formulation. Clear documentation of all mineral profiles on the back label. [Verified Review Segment 3],5,Amazon India
+VTH_IN_0361,3,So glad Centrum launched their customized benefit blends in India. Global quality. [Verified Review Segment 4],4,Brand D2C Store
+VTH_IN_0362,3,The strawberry flavor is premium and standard. Great multivitamin standard. [Verified Review Segment 4],4,Tata 1mg App
+VTH_IN_0363,3,"A bit premium priced for 30 chews, but the brand reliability is unmatched globally. [Verified Review Segment 4]",5,Flipkart
+VTH_IN_0364,3,Perfect for filling nutritional gaps caused by city life and poor daily diet. [Verified Review Segment 4],3,Amazon India
+VTH_IN_0365,3,Felt a distinct improvement in my daily energy and stamina levels within two weeks. [Verified Review Segment 4],3,Tata 1mg App
+VTH_IN_0366,3,Tailored specifically for the Indian diet which lacks essential trace minerals. [Verified Review Segment 4],5,Tata 1mg App
+VTH_IN_0367,3,"Easy to chew, non-rubber texture, very premium product finish. [Verified Review Segment 4]",3,Brand D2C Store
+VTH_IN_0368,3,"My physician recommended Centrum, glad they have a delicious gummy format now. [Verified Review Segment 4]",5,Tata 1mg App
+VTH_IN_0369,3,Keeps my immune system stable during weather changes. No side effects. [Verified Review Segment 4],3,Brand D2C Store
+VTH_IN_0370,3,Trusted formulation. Clear documentation of all mineral profiles on the back label. [Verified Review Segment 4],4,Tata 1mg App
+VTH_IN_0371,3,So glad Centrum launched their customized benefit blends in India. Global quality. [Verified Review Segment 5],3,Brand D2C Store
+VTH_IN_0372,3,The strawberry flavor is premium and standard. Great multivitamin standard. [Verified Review Segment 5],4,Amazon India
+VTH_IN_0373,3,"A bit premium priced for 30 chews, but the brand reliability is unmatched globally. [Verified Review Segment 5]",3,Flipkart
+VTH_IN_0374,3,Perfect for filling nutritional gaps caused by city life and poor daily diet. [Verified Review Segment 5],5,Brand D2C Store
+VTH_IN_0375,3,Felt a distinct improvement in my daily energy and stamina levels within two weeks. [Verified Review Segment 5],4,Amazon India
+VTH_IN_0376,3,Tailored specifically for the Indian diet which lacks essential trace minerals. [Verified Review Segment 5],3,Tata 1mg App
+VTH_IN_0377,3,"Easy to chew, non-rubber texture, very premium product finish. [Verified Review Segment 5]",4,Flipkart
+VTH_IN_0378,3,"My physician recommended Centrum, glad they have a delicious gummy format now. [Verified Review Segment 5]",3,Brand D2C Store
+VTH_IN_0379,3,Keeps my immune system stable during weather changes. No side effects. [Verified Review Segment 5],5,Tata 1mg App
+VTH_IN_0380,3,Trusted formulation. Clear documentation of all mineral profiles on the back label. [Verified Review Segment 5],4,Brand D2C Store
+VTH_IN_0381,3,So glad Centrum launched their customized benefit blends in India. Global quality. [Verified Review Segment 6],4,Brand D2C Store
+VTH_IN_0382,3,The strawberry flavor is premium and standard. Great multivitamin standard. [Verified Review Segment 6],4,Amazon India
+VTH_IN_0383,3,"A bit premium priced for 30 chews, but the brand reliability is unmatched globally. [Verified Review Segment 6]",4,Brand D2C Store
+VTH_IN_0384,3,Perfect for filling nutritional gaps caused by city life and poor daily diet. [Verified Review Segment 6],3,Flipkart
+VTH_IN_0385,3,Felt a distinct improvement in my daily energy and stamina levels within two weeks. [Verified Review Segment 6],3,Brand D2C Store
+VTH_IN_0386,7,The cranberry sugar-free biotin gummy is fantastic. Highly economical option. [Verified Review Segment 1],4,Tata 1mg App
+VTH_IN_0387,7,Very affordable pricing model. Taste is super tangy and refreshing. [Verified Review Segment 1],5,Amazon India
+VTH_IN_0388,7,"Great alternative to heavy weight-loss drinks, their ACV gummies taste sweet and sour. [Verified Review Segment 1]",5,Amazon India
+VTH_IN_0389,7,"Good packaging, easy to squeeze out from the bottle, doesn't melt. [Verified Review Segment 1]",3,Flipkart
+VTH_IN_0390,7,I use their multivitamins daily. Very accessible on Nykaa and Amazon India. [Verified Review Segment 1],4,Brand D2C Store
+VTH_IN_0391,7,Helped regulate my gut bloating issues. Pectin structure is fully veg. [Verified Review Segment 1],4,Tata 1mg App
+VTH_IN_0392,7,Perfect entry-level gummy for college students on a budget. [Verified Review Segment 1],5,Tata 1mg App
+VTH_IN_0393,7,The cranberry flavor covers up the chemical taste beautifully. Very nice product. [Verified Review Segment 1],4,Brand D2C Store
+VTH_IN_0394,7,Clean ingredients at a fraction of the cost of premium digital brands. [Verified Review Segment 1],5,Flipkart
+VTH_IN_0395,7,"Simple, functional, and highly consistent performance over multiple purchases. [Verified Review Segment 1]",4,Flipkart
+VTH_IN_0396,7,The cranberry sugar-free biotin gummy is fantastic. Highly economical option. [Verified Review Segment 2],5,Tata 1mg App
+VTH_IN_0397,7,Very affordable pricing model. Taste is super tangy and refreshing. [Verified Review Segment 2],5,Flipkart
+VTH_IN_0398,7,"Great alternative to heavy weight-loss drinks, their ACV gummies taste sweet and sour. [Verified Review Segment 2]",5,Brand D2C Store
+VTH_IN_0399,7,"Good packaging, easy to squeeze out from the bottle, doesn't melt. [Verified Review Segment 2]",3,Tata 1mg App
+VTH_IN_0400,7,I use their multivitamins daily. Very accessible on Nykaa and Amazon India. [Verified Review Segment 2],4,Flipkart
+VTH_IN_0401,7,Helped regulate my gut bloating issues. Pectin structure is fully veg. [Verified Review Segment 2],5,Tata 1mg App
+VTH_IN_0402,7,Perfect entry-level gummy for college students on a budget. [Verified Review Segment 2],4,Tata 1mg App
+VTH_IN_0403,7,The cranberry flavor covers up the chemical taste beautifully. Very nice product. [Verified Review Segment 2],3,Amazon India
+VTH_IN_0404,7,Clean ingredients at a fraction of the cost of premium digital brands. [Verified Review Segment 2],4,Flipkart
+VTH_IN_0405,7,"Simple, functional, and highly consistent performance over multiple purchases. [Verified Review Segment 2]",4,Brand D2C Store
+VTH_IN_0406,7,The cranberry sugar-free biotin gummy is fantastic. Highly economical option. [Verified Review Segment 3],5,Tata 1mg App
+VTH_IN_0407,7,Very affordable pricing model. Taste is super tangy and refreshing. [Verified Review Segment 3],3,Tata 1mg App
+VTH_IN_0408,7,"Great alternative to heavy weight-loss drinks, their ACV gummies taste sweet and sour. [Verified Review Segment 3]",5,Amazon India
+VTH_IN_0409,7,"Good packaging, easy to squeeze out from the bottle, doesn't melt. [Verified Review Segment 3]",3,Amazon India
+VTH_IN_0410,7,I use their multivitamins daily. Very accessible on Nykaa and Amazon India. [Verified Review Segment 3],4,Tata 1mg App
+VTH_IN_0411,7,Helped regulate my gut bloating issues. Pectin structure is fully veg. [Verified Review Segment 3],3,Flipkart
+VTH_IN_0412,7,Perfect entry-level gummy for college students on a budget. [Verified Review Segment 3],4,Amazon India
+VTH_IN_0413,7,The cranberry flavor covers up the chemical taste beautifully. Very nice product. [Verified Review Segment 3],4,Flipkart
+VTH_IN_0414,7,Clean ingredients at a fraction of the cost of premium digital brands. [Verified Review Segment 3],4,Brand D2C Store
+VTH_IN_0415,7,"Simple, functional, and highly consistent performance over multiple purchases. [Verified Review Segment 3]",4,Brand D2C Store
+VTH_IN_0416,7,The cranberry sugar-free biotin gummy is fantastic. Highly economical option. [Verified Review Segment 4],5,Flipkart
+VTH_IN_0417,7,Very affordable pricing model. Taste is super tangy and refreshing. [Verified Review Segment 4],3,Tata 1mg App
+VTH_IN_0418,7,"Great alternative to heavy weight-loss drinks, their ACV gummies taste sweet and sour. [Verified Review Segment 4]",5,Brand D2C Store
+VTH_IN_0419,7,"Good packaging, easy to squeeze out from the bottle, doesn't melt. [Verified Review Segment 4]",3,Amazon India
+VTH_IN_0420,7,I use their multivitamins daily. Very accessible on Nykaa and Amazon India. [Verified Review Segment 4],3,Flipkart
+VTH_IN_0421,7,Helped regulate my gut bloating issues. Pectin structure is fully veg. [Verified Review Segment 4],5,Amazon India
+VTH_IN_0422,7,Perfect entry-level gummy for college students on a budget. [Verified Review Segment 4],3,Brand D2C Store
+VTH_IN_0423,7,The cranberry flavor covers up the chemical taste beautifully. Very nice product. [Verified Review Segment 4],4,Flipkart
+VTH_IN_0424,7,Clean ingredients at a fraction of the cost of premium digital brands. [Verified Review Segment 4],3,Tata 1mg App
+VTH_IN_0425,7,"Simple, functional, and highly consistent performance over multiple purchases. [Verified Review Segment 4]",4,Amazon India
+VTH_IN_0426,7,The cranberry sugar-free biotin gummy is fantastic. Highly economical option. [Verified Review Segment 5],5,Flipkart
+VTH_IN_0427,7,Very affordable pricing model. Taste is super tangy and refreshing. [Verified Review Segment 5],4,Tata 1mg App
+VTH_IN_0428,7,"Great alternative to heavy weight-loss drinks, their ACV gummies taste sweet and sour. [Verified Review Segment 5]",5,Tata 1mg App
+VTH_IN_0429,7,"Good packaging, easy to squeeze out from the bottle, doesn't melt. [Verified Review Segment 5]",4,Brand D2C Store
+VTH_IN_0430,7,I use their multivitamins daily. Very accessible on Nykaa and Amazon India. [Verified Review Segment 5],4,Tata 1mg App
+VTH_IN_0431,7,Helped regulate my gut bloating issues. Pectin structure is fully veg. [Verified Review Segment 5],3,Tata 1mg App
+VTH_IN_0432,7,Perfect entry-level gummy for college students on a budget. [Verified Review Segment 5],4,Tata 1mg App
+VTH_IN_0433,7,The cranberry flavor covers up the chemical taste beautifully. Very nice product. [Verified Review Segment 5],3,Amazon India
+VTH_IN_0434,7,Clean ingredients at a fraction of the cost of premium digital brands. [Verified Review Segment 5],5,Tata 1mg App
+VTH_IN_0435,7,"Simple, functional, and highly consistent performance over multiple purchases. [Verified Review Segment 5]",3,Flipkart
+VTH_IN_0436,7,The cranberry sugar-free biotin gummy is fantastic. Highly economical option. [Verified Review Segment 6],3,Tata 1mg App
+VTH_IN_0437,7,Very affordable pricing model. Taste is super tangy and refreshing. [Verified Review Segment 6],3,Amazon India
+VTH_IN_0438,7,"Great alternative to heavy weight-loss drinks, their ACV gummies taste sweet and sour. [Verified Review Segment 6]",5,Flipkart
+VTH_IN_0439,7,"Good packaging, easy to squeeze out from the bottle, doesn't melt. [Verified Review Segment 6]",3,Tata 1mg App
+VTH_IN_0440,7,I use their multivitamins daily. Very accessible on Nykaa and Amazon India. [Verified Review Segment 6],4,Tata 1mg App
+VTH_IN_0441,5,Beautiful blending of Ayurvedic wisdom like Amla with Western clinical Biotin. [Verified Review Segment 1],5,Flipkart
+VTH_IN_0442,5,"The packaging feels super luxurious. No artificial flavors, authentic color. [Verified Review Segment 1]",5,Amazon India
+VTH_IN_0443,5,Slightly expensive but the sourcing from global experts makes the premium price point logical. [Verified Review Segment 1],4,Flipkart
+VTH_IN_0444,5,"Highly functional for urban women managing work stress, skin fatigue, and sleep loops. [Verified Review Segment 1]",3,Tata 1mg App
+VTH_IN_0445,5,"The taste is mild and botanical, not like sugary candy at all. Feels therapeutic. [Verified Review Segment 1]",5,Amazon India
+VTH_IN_0446,5,Very clean aftertaste. My hair fallout has decreased noticeably in two cycles. [Verified Review Segment 1],5,Amazon India
+VTH_IN_0447,5,Premium quality gummy that doesn't trigger any gastric irritation. [Verified Review Segment 1],5,Tata 1mg App
+VTH_IN_0448,5,Great aesthetic and real ingredient integrity. Definitely stands out in the crowded market. [Verified Review Segment 1],5,Amazon India
+VTH_IN_0449,5,A premium investment in your health. Very satisfied with the metabolic results. [Verified Review Segment 1],5,Tata 1mg App
+VTH_IN_0450,5,"Perfect consistency, highly professional brand customer service. [Verified Review Segment 1]",5,Brand D2C Store
+VTH_IN_0451,5,Beautiful blending of Ayurvedic wisdom like Amla with Western clinical Biotin. [Verified Review Segment 2],4,Flipkart
+VTH_IN_0452,5,"The packaging feels super luxurious. No artificial flavors, authentic color. [Verified Review Segment 2]",5,Amazon India
+VTH_IN_0453,5,Slightly expensive but the sourcing from global experts makes the premium price point logical. [Verified Review Segment 2],3,Brand D2C Store
+VTH_IN_0454,5,"Highly functional for urban women managing work stress, skin fatigue, and sleep loops. [Verified Review Segment 2]",5,Brand D2C Store
+VTH_IN_0455,5,"The taste is mild and botanical, not like sugary candy at all. Feels therapeutic. [Verified Review Segment 2]",4,Brand D2C Store
+VTH_IN_0456,5,Very clean aftertaste. My hair fallout has decreased noticeably in two cycles. [Verified Review Segment 2],3,Amazon India
+VTH_IN_0457,5,Premium quality gummy that doesn't trigger any gastric irritation. [Verified Review Segment 2],3,Tata 1mg App
+VTH_IN_0458,5,Great aesthetic and real ingredient integrity. Definitely stands out in the crowded market. [Verified Review Segment 2],5,Tata 1mg App
+VTH_IN_0459,5,A premium investment in your health. Very satisfied with the metabolic results. [Verified Review Segment 2],5,Brand D2C Store
+VTH_IN_0460,5,"Perfect consistency, highly professional brand customer service. [Verified Review Segment 2]",5,Flipkart
+VTH_IN_0461,5,Beautiful blending of Ayurvedic wisdom like Amla with Western clinical Biotin. [Verified Review Segment 3],4,Tata 1mg App
+VTH_IN_0462,5,"The packaging feels super luxurious. No artificial flavors, authentic color. [Verified Review Segment 3]",3,Flipkart
+VTH_IN_0463,5,Slightly expensive but the sourcing from global experts makes the premium price point logical. [Verified Review Segment 3],3,Brand D2C Store
+VTH_IN_0464,5,"Highly functional for urban women managing work stress, skin fatigue, and sleep loops. [Verified Review Segment 3]",3,Tata 1mg App
+VTH_IN_0465,5,"The taste is mild and botanical, not like sugary candy at all. Feels therapeutic. [Verified Review Segment 3]",3,Tata 1mg App
+VTH_IN_0466,5,Very clean aftertaste. My hair fallout has decreased noticeably in two cycles. [Verified Review Segment 3],3,Tata 1mg App
+VTH_IN_0467,5,Premium quality gummy that doesn't trigger any gastric irritation. [Verified Review Segment 3],3,Flipkart
+VTH_IN_0468,5,Great aesthetic and real ingredient integrity. Definitely stands out in the crowded market. [Verified Review Segment 3],4,Flipkart
+VTH_IN_0469,5,A premium investment in your health. Very satisfied with the metabolic results. [Verified Review Segment 3],4,Tata 1mg App
+VTH_IN_0470,5,"Perfect consistency, highly professional brand customer service. [Verified Review Segment 3]",5,Tata 1mg App
+VTH_IN_0471,5,Beautiful blending of Ayurvedic wisdom like Amla with Western clinical Biotin. [Verified Review Segment 4],5,Amazon India
+VTH_IN_0472,5,"The packaging feels super luxurious. No artificial flavors, authentic color. [Verified Review Segment 4]",4,Tata 1mg App
+VTH_IN_0473,5,Slightly expensive but the sourcing from global experts makes the premium price point logical. [Verified Review Segment 4],3,Flipkart
+VTH_IN_0474,5,"Highly functional for urban women managing work stress, skin fatigue, and sleep loops. [Verified Review Segment 4]",3,Brand D2C Store
+VTH_IN_0475,5,"The taste is mild and botanical, not like sugary candy at all. Feels therapeutic. [Verified Review Segment 4]",4,Amazon India
+VTH_IN_0476,5,Very clean aftertaste. My hair fallout has decreased noticeably in two cycles. [Verified Review Segment 4],3,Tata 1mg App
+VTH_IN_0477,5,Premium quality gummy that doesn't trigger any gastric irritation. [Verified Review Segment 4],3,Amazon India
+VTH_IN_0478,5,Great aesthetic and real ingredient integrity. Definitely stands out in the crowded market. [Verified Review Segment 4],4,Brand D2C Store
+VTH_IN_0479,5,A premium investment in your health. Very satisfied with the metabolic results. [Verified Review Segment 4],3,Flipkart
+VTH_IN_0480,5,"Perfect consistency, highly professional brand customer service. [Verified Review Segment 4]",3,Flipkart
+VTH_IN_0481,5,Beautiful blending of Ayurvedic wisdom like Amla with Western clinical Biotin. [Verified Review Segment 5],4,Tata 1mg App
+VTH_IN_0482,5,"The packaging feels super luxurious. No artificial flavors, authentic color. [Verified Review Segment 5]",3,Flipkart
+VTH_IN_0483,5,Slightly expensive but the sourcing from global experts makes the premium price point logical. [Verified Review Segment 5],4,Brand D2C Store
+VTH_IN_0484,5,"Highly functional for urban women managing work stress, skin fatigue, and sleep loops. [Verified Review Segment 5]",3,Flipkart
+VTH_IN_0485,5,"The taste is mild and botanical, not like sugary candy at all. Feels therapeutic. [Verified Review Segment 5]",4,Flipkart
+VTH_IN_0486,5,Very clean aftertaste. My hair fallout has decreased noticeably in two cycles. [Verified Review Segment 5],5,Brand D2C Store
+VTH_IN_0487,5,Premium quality gummy that doesn't trigger any gastric irritation. [Verified Review Segment 5],3,Brand D2C Store
+VTH_IN_0488,5,Great aesthetic and real ingredient integrity. Definitely stands out in the crowded market. [Verified Review Segment 5],4,Flipkart
+VTH_IN_0489,5,A premium investment in your health. Very satisfied with the metabolic results. [Verified Review Segment 5],5,Tata 1mg App
+VTH_IN_0490,5,"Perfect consistency, highly professional brand customer service. [Verified Review Segment 5]",4,Amazon India
+VTH_IN_0491,5,Beautiful blending of Ayurvedic wisdom like Amla with Western clinical Biotin. [Verified Review Segment 6],4,Amazon India
+VTH_IN_0492,5,"The packaging feels super luxurious. No artificial flavors, authentic color. [Verified Review Segment 6]",4,Tata 1mg App
+VTH_IN_0493,5,Slightly expensive but the sourcing from global experts makes the premium price point logical. [Verified Review Segment 6],4,Brand D2C Store
+VTH_IN_0494,5,"Highly functional for urban women managing work stress, skin fatigue, and sleep loops. [Verified Review Segment 6]",3,Flipkart
+VTH_IN_0495,5,"The taste is mild and botanical, not like sugary candy at all. Feels therapeutic. [Verified Review Segment 6]",4,Tata 1mg App
