@@ -1,11 +1,4 @@
 """
-Claude review tagging: sentiment score + emotion tags.
-
-Usage (run from the repo root):
-    python src/tag_reviews.py tag               # tag all reviews (cached)
-    python src/tag_reviews.py sample 40         # write 40 reviews to hand-label
-    python src/tag_reviews.py validate          # compare your labels with Claude's
-
 Design notes
 - The review file repeats the same text many times with a "[Verified Review
   Segment N]" suffix. We strip the suffix and tag each DISTINCT text once,
